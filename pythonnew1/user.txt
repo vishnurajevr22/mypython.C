@@ -1,0 +1,4 @@
+name=dece
+reg no=23454
+year=2
+depmt=comerce
